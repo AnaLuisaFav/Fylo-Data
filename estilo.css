@@ -5,7 +5,8 @@ body {
 	background-color: hsl(229, 57%, 11%);
 	background-image: url(img/bg-desktop.png);
 	background-repeat: no-repeat;
-	height: 100%;
+	min-height: 100vh;
+	padding: 0px 10px;
 	margin: 0px;
 	background-position: -50px 455px;
 	background-size: 2200px;
@@ -126,7 +127,7 @@ span {
 
 .balloon-all {
 	position: absolute;
-	right: 50px;
+	right: 40px;
 	top: -50px;
 } 
 
@@ -192,15 +193,24 @@ footer a:hover {
 
 	.right {
 		margin-top: 20px;
-		width: 290px;
+		box-sizing: border-box;
+		width: 340px;
+		height: 144px;
 	}
 
 	.left {
 		margin-right: unset;
+		box-sizing: border-box;
+		width: 340px;
+		height: 214px;
 	}
 
 	.progress-bar {
-		width: 288px;
+		width: 262px;
+	}
+
+	.balloon {
+		padding: 0px 16px;
 	}
 
 	.balloon:after {
@@ -208,8 +218,8 @@ footer a:hover {
 	}
 
 	.balloon-all {
-		right: 111px;
-		top: 108px;
+		right: 104px;
+    	top: 108px;
 	} 
 
 	h1 {
