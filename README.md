@@ -28,9 +28,11 @@
 
 *<h1>Sobre</h1>About*
 
-Meu primeiro desafio no Frontend Mentor, com layout responsivo.
+Mais um desafio no Frontend Mentor, com layout responsivo. Esse desafio foi um pouco mais difícil. Em primeiro momento, eu não estava conseguindo fazer o background (azul escuro) dos ícones todos do mesmo tamanho, pois as imagens dos ícones são de tamanhos diferentes. Então a solução que eu encontrei foi fazer uma div para cada ícone, e colocá-las como background, e fazer uma classe apenas para o background azul.
+Eu nunca havia feito um balão de diálogo e uma barra de progresso, então foi algo que exigiu pesquisa 😅 mas deu certo e estou feliz com o resultado! 🥳
 
-My first challenge on Frontend Mentor, with responsive layout.
+One more challenge on Frontend Mentor, with responsive layout. This challenge was a little more difficult. At first, I couldn't make the background (dark blue) of the icons all the same size, because the image of the icons has different sizes. So the solution I found was to make a div for each icon, and put them as the background, and make a class just for the blue background. 
+I've never made a speech bubble and progress bar before, so it took some research 😅 but it worked and i'm happy with the result! 🥳
 
 *<h1>Feito com</h1>Built with*
 
